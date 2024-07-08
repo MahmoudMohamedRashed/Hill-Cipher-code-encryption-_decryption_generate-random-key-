@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1710975071 source:d:\codeblocks\encry_2\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<fstream>
+
